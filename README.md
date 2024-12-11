@@ -15,5 +15,5 @@ The **Mobile-Based Tourism Assistance System** is an open-source mobile app desi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/pasindujaya687/repository-name.git
 
